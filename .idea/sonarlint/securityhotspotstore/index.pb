@@ -24,3 +24,9 @@ q
 Aapp/src/test/java/com/example/composableaccess/ExampleUnitTest.kt,4\a\4aca02848dff795d5d0b3e6057b7c464002480c5
 €
 Papp/src/androidTest/java/com/example/composableaccess/ExampleInstrumentedTest.kt,a\d\ad681bedf648e8d2d2288da333e244cc10a72976
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e

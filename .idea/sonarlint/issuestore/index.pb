@@ -24,3 +24,9 @@ p
 @app/src/main/java/com/example/composableaccess/ui/theme/Theme.kt,a\b\ab5585a829d3d9708d81376cdbb273ca11dd43de
 o
 ?app/src/main/java/com/example/composableaccess/ui/theme/Type.kt,7\9\79e7a630bf7124a9fc16034607722dc209f50bf2
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
